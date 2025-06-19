@@ -32,8 +32,8 @@ Ensure the following resources are running on your server:
    ```bash
    git clone https://github.com/Takennncs/takenncs-tablet.git
 
-**ox_inventory - item:
-```bash
+# Ox_inventory - item:
+   ```bash
     ["selltablet"] = {
         label = "Sell Tablet",
         weight = 0.5, 
