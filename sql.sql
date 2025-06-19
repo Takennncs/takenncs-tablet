@@ -1,4 +1,3 @@
-
 CREATE TABLE `drug_sales_leaderboard` (
   `id` int(11) NOT NULL,
   `identifier` varchar(64) NOT NULL,
