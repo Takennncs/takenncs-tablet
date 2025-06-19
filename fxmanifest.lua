@@ -22,12 +22,8 @@ client_scripts {
     'client/*.lua'
 }
 files {
-    'ui/img/*.png',
     'ui/index.html',
     'ui/script.js',
-    'ui/tailwind.min.css',
 }
 
 lua54 'yes'
-
-dependency 'PolyZone'
