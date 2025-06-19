@@ -31,3 +31,13 @@ Ensure the following resources are running on your server:
 1. **Download or clone** this repository:
    ```bash
    git clone https://github.com/Takennncs/takenncs-tablet.git
+
+**ox_inventory - item:
+```bash
+    ["selltablet"] = {
+        label = "Sell Tablet",
+        weight = 0.5, 
+        usable = true,
+    description = 'Tablet :O'
+    },
+
