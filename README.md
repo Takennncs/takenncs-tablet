@@ -4,7 +4,7 @@
 A lightweight and customizable FiveM script using `ox_inventory`, `qb-core`, and optionally `ox_target`. Players can use a special item (`selltablet`) to access tablet-based functionality, such as managing black market sales, shop interactions, or roleplay menus.
 
 ---
-
+https://streamable.com/2b1fgy
 ## 📦 Features
 
 - 🔘 **Usable item**: Trigger actions using the `selltablet` item from your inventory.
